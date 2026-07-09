@@ -1,0 +1,17 @@
+streamlit
+numpy
+pandas
+scikit-learn
+
+dlib
+face_recognition
+git+https://github.com/ageitgey/face_recognition_models
+
+supabase
+bcrypt
+segno
+pillow
+
+librosa
+resemblyzer
+setuptools
